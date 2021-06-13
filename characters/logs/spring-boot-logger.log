@@ -1,0 +1,66 @@
+2021-06-12 19:49:32,863 INFO org.springframework.boot.StartupInfoLogger [main] Starting CharactersApplication using Java 1.8.0_101 on acer with PID 1788 (D:\workspace\characters\target\classes started by acer in D:\workspace\characters)
+2021-06-12 19:49:32,869 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-12 19:49:32,870 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-12 19:49:41,324 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-06-12 19:49:41,469 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-12 19:49:41,472 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-06-12 19:49:41,473 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-12 19:49:42,174 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-06-12 19:49:42,174 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 9110 ms
+2021-06-12 19:49:44,168 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-06-12 19:49:44,459 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-12 19:49:44,506 INFO org.springframework.boot.StartupInfoLogger [main] Started CharactersApplication in 14.037 seconds (JVM running for 14.7)
+2021-06-12 19:49:44,513 INFO com.yapily.characters.service.DataLoader [main] Calling..
+2021-06-12 19:49:51,128 INFO com.yapily.characters.service.DataLoader [main] Done..
+2021-06-12 19:49:51,129 DEBUG com.yapily.characters.service.DataLoader [main] Count : 100, Count : 100
+2021-06-12 19:49:53,568 INFO com.yapily.characters.service.DataLoader [pool-1-thread-13] Done..
+2021-06-12 19:49:53,572 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-13] Count : 200, Count : 100
+2021-06-12 19:49:54,435 INFO com.yapily.characters.service.DataLoader [pool-1-thread-3] Done..
+2021-06-12 19:49:54,440 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-3] Count : 300, Count : 100
+2021-06-12 19:49:55,168 INFO com.yapily.characters.service.DataLoader [pool-1-thread-12] Done..
+2021-06-12 19:49:55,168 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-12] Count : 400, Count : 100
+2021-06-12 19:49:55,411 INFO com.yapily.characters.service.DataLoader [pool-1-thread-7] Done..
+2021-06-12 19:49:55,412 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-7] Count : 500, Count : 100
+2021-06-12 19:49:55,479 INFO com.yapily.characters.service.DataLoader [pool-1-thread-10] Done..
+2021-06-12 19:49:55,480 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-10] Count : 600, Count : 100
+2021-06-12 19:49:55,640 INFO com.yapily.characters.service.DataLoader [pool-1-thread-1] Done..
+2021-06-12 19:49:55,640 INFO com.yapily.characters.service.DataLoader [pool-1-thread-2] Done..
+2021-06-12 19:49:55,641 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-1] Count : 700, Count : 100
+2021-06-12 19:49:55,641 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-2] Count : 800, Count : 100
+2021-06-12 19:49:55,914 INFO com.yapily.characters.service.DataLoader [pool-1-thread-4] Done..
+2021-06-12 19:49:55,915 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-4] Count : 900, Count : 100
+2021-06-12 19:49:56,042 INFO com.yapily.characters.service.DataLoader [pool-1-thread-9] Done..
+2021-06-12 19:49:56,042 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-9] Count : 1000, Count : 100
+2021-06-12 19:49:56,548 INFO com.yapily.characters.service.DataLoader [pool-1-thread-8] Done..
+2021-06-12 19:49:56,548 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-8] Count : 1100, Count : 100
+2021-06-12 19:49:56,600 INFO com.yapily.characters.service.DataLoader [pool-1-thread-6] Done..
+2021-06-12 19:49:56,601 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-6] Count : 1200, Count : 100
+2021-06-12 19:49:56,728 INFO com.yapily.characters.service.DataLoader [pool-1-thread-11] Done..
+2021-06-12 19:49:56,729 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-11] Count : 1300, Count : 100
+2021-06-12 19:49:56,878 INFO com.yapily.characters.service.DataLoader [pool-1-thread-14] Done..
+2021-06-12 19:49:56,878 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-14] Count : 1393, Count : 93
+2021-06-12 19:49:57,745 INFO com.yapily.characters.service.DataLoader [pool-1-thread-5] Done..
+2021-06-12 19:49:57,745 DEBUG com.yapily.characters.service.DataLoader [pool-1-thread-5] Count : 1493, Count : 100
+2021-06-12 19:49:57,746 INFO com.yapily.characters.service.DataLoader [main] Execution is done..
+2021-06-12 19:49:57,747 INFO com.yapily.characters.CharactersApplication [main] Application Stated..
+2021-06-12 20:07:14,000 INFO org.springframework.boot.StartupInfoLogger [main] Starting DataLoaderTest using Java 1.8.0_101 on acer with PID 4112 (started by acer in D:\workspace\characters)
+2021-06-12 20:07:14,034 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-12 20:07:20,809 INFO org.springframework.boot.StartupInfoLogger [main] Started DataLoaderTest in 7.508 seconds (JVM running for 9.114)
+2021-06-12 20:07:20,816 INFO com.yapily.characters.service.DataLoader [main] Calling..
+2021-06-12 20:07:25,654 INFO com.yapily.characters.service.DataLoader [main] Done..
+2021-06-12 20:07:27,954 INFO com.yapily.characters.service.DataLoader [pool-1-thread-13] Done..
+2021-06-12 20:07:29,605 INFO com.yapily.characters.service.DataLoader [pool-1-thread-7] Done..
+2021-06-12 20:07:29,732 INFO com.yapily.characters.service.DataLoader [pool-1-thread-5] Done..
+2021-06-12 20:07:29,800 INFO com.yapily.characters.service.DataLoader [pool-1-thread-9] Done..
+2021-06-12 20:07:29,869 INFO com.yapily.characters.service.DataLoader [pool-1-thread-8] Done..
+2021-06-12 20:07:29,970 INFO com.yapily.characters.service.DataLoader [pool-1-thread-6] Done..
+2021-06-12 20:07:29,980 INFO com.yapily.characters.service.DataLoader [pool-1-thread-12] Done..
+2021-06-12 20:07:30,029 INFO com.yapily.characters.service.DataLoader [pool-1-thread-2] Done..
+2021-06-12 20:07:30,040 INFO com.yapily.characters.service.DataLoader [pool-1-thread-3] Done..
+2021-06-12 20:07:30,350 INFO com.yapily.characters.service.DataLoader [pool-1-thread-10] Done..
+2021-06-12 20:07:30,645 INFO com.yapily.characters.service.DataLoader [pool-1-thread-1] Done..
+2021-06-12 20:07:30,670 INFO com.yapily.characters.service.DataLoader [pool-1-thread-14] Done..
+2021-06-12 20:07:30,685 INFO com.yapily.characters.service.DataLoader [pool-1-thread-4] Done..
+2021-06-12 20:07:31,061 INFO com.yapily.characters.service.DataLoader [pool-1-thread-11] Done..
+2021-06-12 20:07:31,062 INFO com.yapily.characters.service.DataLoader [main] Execution is done..
+2021-06-12 20:07:34,679 INFO com.yapily.characters.service.DataLoader [main] Done..
